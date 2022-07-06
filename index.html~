@@ -7,9 +7,9 @@
     <title>The Aevitas Spermbank clinic will be back soon!</title>
     <style>
         body {
-            font-family: arial, sans-serif;
-            background: #f7f7f7;
-            padding: 50px;
+        font-family: arial, sans-serif;
+        background: #f7f7f7;
+        padding: 50px;
         }
         figure {
             text-align: center;
@@ -19,12 +19,12 @@
             display: inline-block;
         }
         body > div {
-            background: #fff;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 50px;
-            border-radius: 4px;
-            box-shadow: 0 5px 5px rgba(0,0,0,0.1);
+        background: #fff;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 50px;
+        border-radius: 4px;
+        box-shadow: 0 5px 5px rgba(0,0,0,0.1);
         }
     </style>
 </head>
